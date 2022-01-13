@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+subprocess
+matplotlib
+pickle
+seaborn
+rbo
