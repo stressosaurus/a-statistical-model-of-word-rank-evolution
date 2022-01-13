@@ -24,7 +24,7 @@ bash wright-fisher-simulations-precompute.py
 bash rank-change-precompute.py
 ```
 
-* *Step 2:* Run and follow the code in the Jupyter Notebook shown below.
+* Run and follow the code in the Jupyter Notebook shown below.
 
 ```
 jupyter notebook MAIN-1.ipynb
