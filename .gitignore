@@ -11,7 +11,7 @@ reports/
 save/
 
 # files
-google-1gram-data-simulations.ipynb
+google-1gram-data-computations.ipynb
 MAIN-2.ipynb
 multinomial-probability-distribution-theory-and-simulations.ipynb
 probabilities-trends-tests.ipynb
